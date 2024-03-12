@@ -1,8 +1,8 @@
-package assignment;
+
 
 import java.util.Scanner;
 
-public class Prob2 {
+public class VowelsAndConsonants {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
